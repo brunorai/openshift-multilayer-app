@@ -1,8 +1,9 @@
 ### Como utilizar:
 
-**Requisitos**: 
+#### Requisitos: 
 
-    * Todos os cmandos serão feitos no lab     virtual do openshift, qual já tem as ferramentas necessárias (vim, git, oc, etc).
+Todos os cmandos serão feitos no lab     virtual do openshift, qual já tem as ferramentas necessárias (vim, git, oc, etc).
+
 
 1. **Clone o repositório**: 
 
