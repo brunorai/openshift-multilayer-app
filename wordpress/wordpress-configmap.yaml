@@ -1,7 +1,7 @@
 apiVersion: v1
 data:
   WORDPRESS_USERNAME: admin
-  WORDPRESS_BLOG_NAME: Paulo Vigne
+  WORDPRESS_BLOG_NAME: Bruno-Nathan-Marcelo
 kind: ConfigMap
 metadata:
   name: wordpress-param
